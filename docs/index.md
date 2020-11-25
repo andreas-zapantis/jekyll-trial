@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is an index page with a small explanation of the purpose of the site.
